@@ -1,6 +1,6 @@
 # node-module-boilerplate
 
-> Boilerplate to kickstart creating a Node.js module
+> Boilerplate to kickstart creating a Node.js module. WELCOME!
 
 This is what I use for [my own modules](https://www.npmjs.com/~sindresorhus).
 

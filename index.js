@@ -5,3 +5,9 @@ export default function unicornFun(input, {postfix = 'rainbows'} = {}) {
 
 	return `${input} & ${postfix}`;
 }
+
+function onLoad(){
+	document.addEventListener("DOMContentLoaded", () => {})
+}	
+
+onLoad();
