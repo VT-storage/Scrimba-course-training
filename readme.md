@@ -1,4 +1,5 @@
 # node-module-boilerplate
+# Second-awesome-header-LoremIpsun 
 
 > Boilerplate to kickstart creating a Node.js module. WELCOME!
 
