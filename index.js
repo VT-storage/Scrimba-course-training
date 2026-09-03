@@ -7,7 +7,9 @@ export default function unicornFun(input, {postfix = 'rainbows'} = {}) {
 }
 
 function onLoad(){
-	document.addEventListener("DOMContentLoaded", () => {})
+	document.addEventListener("DOMContentLoaded", () => {
+		console.log("Hello World!")
+	})
 }	
 
 onLoad();
